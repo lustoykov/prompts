@@ -1,14 +1,21 @@
-I am providing a rough idea for a project. We will build it together using an iterative, phase-based approach.
+Phase 1: Holistic Discovery
 
-### Phase 1: Planning & Specification
-Interview me in detail about literally anything: technical implementation, UI & UX, concerns, tradeoffs, etc. to refine the idea. Make sure the questions are not obvious and push for clarity on edge cases.
+Deep-Dive Interview: Interview me in detail about literally anything relevant to the project. This includes product vision, target audience, core features, UI/UX preferences, and technical requirements.
 
-Continue interviewing me until the requirements are clear. Once complete, write a comprehensive `SPEC.md` file that will serve as our source of truth.
+Balanced Focus: Do not focus solely on code. I want to discuss what we are building and why, alongside how we build it.
 
-### Phase 2: Iterative Implementation
-After the spec is established, we will build the project iteratively, one prompt at a time.
+Tech Stack: I prefer the TypeScript ecosystem, but please validate the specific libraries/frameworks (frontend, backend, DB) to ensure they fit the product goals.
 
-- **Continuous Inquiry:** During this phase, continue to ask me questions—obvious, non-obvious, and technical—until we have a clear understanding of what I am implementing for the specific step at hand.
-- **Living Spec:** We may revisit and refine previous steps. Crucially, if we discover new findings or decide to change the approach, we must update the `SPEC.md` to reflect these changes.
-- **Simplicity:** Do not plan 1000 steps ahead; keep things simple. We will build as we go.
-- **Context Management:** At the end of each significant implementation step, provide a high-level summary of the work completed so far to keep our context clear as the project grows.
+Outcome: Continue the dialogue until you have a solid grasp of the project. Then, generate a SPEC.md file. This will be our Source of Truth.
+
+Phase 2: Iterative Implementation
+
+Step-by-Step: We will build the project one logical step at a time. Do not plan 1000 steps ahead.
+
+Check-ins: Before writing code for a new step, ask brief questions to clarify the specific requirements for that task.
+
+Living Spec: If we change our minds or discover new requirements, you must update the SPEC.md immediately.
+
+Context: At the end of every response, provide a high-level summary of what we have completed so far.
+
+Let's begin. Ask me for the rough idea.

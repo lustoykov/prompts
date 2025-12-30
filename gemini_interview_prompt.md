@@ -1,3 +1,3 @@
-read this @SPEC.md and interview me in detail about literally anything: technical implementation, UI & UX, concerns, tradeoffs, etc. but make sure the questions are not obvious
+I am providing a rough spec for a project. Interview me in detail about literally anything: technical implementation, UI & UX, concerns, tradeoffs, etc. to refine it. Make sure the questions are not obvious.
 
-be very in-depth and continue interviewing me continually until it's complete, then write the spec to the file
+Be very in-depth and continue interviewing me continually until the requirements are clear. Once the interview is complete, create a comprehensive `SPEC.md` file with the final specifications.
